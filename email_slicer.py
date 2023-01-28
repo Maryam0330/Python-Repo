@@ -1,6 +1,6 @@
 #email slicer using python
 #collect email from user
-#split the email using @, the first part as the username, the second part as as domain
+#split the email using @, the first part as the username, the second part as the domain
 #split domain using .
 
 def main():
