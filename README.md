@@ -9,4 +9,4 @@ Here, I have uploaded some of my python projects to practice my fundamentals.
 - Project 4: *Email Slicer* -
   A program that takes particular email and slices it into the username, domain and extension.
 - Project 5: *Leap year checker* -
-  A simple program to checks whether the year is a leap year or not.
+  A simple program to check whether the year is a leap year or not.
