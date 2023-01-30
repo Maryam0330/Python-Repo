@@ -11,4 +11,4 @@ Here, I have uploaded some of my python projects to practice my fundamentals.
 - Project 5: *Leap year checker* -
   A simple program that checks whether the particular year is a leap year or not.
 - Project 6: *Quiz Game* -
-  This program a bunch of questions to the user. If they give the right answer to the question we'll add one to their score. At the end we'll calculate their result. 
+  This program asks a bunch of questions to the user. If they give the right answer to the question we'll add one to their score. At the end we'll calculate their result. 
