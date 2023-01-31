@@ -1,5 +1,4 @@
 #Date ADT
-
 import datetime
 
 class DateADT:
