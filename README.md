@@ -15,4 +15,4 @@ Here, I have uploaded some of my python projects to practice my fundamentals.
 - Project 7: *Number guessing game* -
   In this program, we are going to generate a random number and we are going to track how many times it takes the user to guess this number.
 - Project 8: *Basic calculator* -
-  In this program, we are going to build a simple calculator using python.
+  In this program, we are going to build a simple calculator in python.
