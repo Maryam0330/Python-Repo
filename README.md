@@ -14,5 +14,5 @@ Here, I have uploaded some of my python projects to practice my fundamentals.
   This program asks a bunch of questions to the user. If they give the right answer to the question we'll add one to their score. At the end we'll calculate their result. 
 - Project 7: *Number guessing game* -
   In this program, we are going to generate a random number and we are going to track how many times it takes the user to guess this number.
-- Project 8: * Basic calculator* -
+- Project 8: *Basic calculator* -
   In this program, we are going to build a simple calculator using python.
