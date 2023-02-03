@@ -18,6 +18,6 @@ Here, I have uploaded some of my python projects to practice my fundamentals.
   In this program, we are going to build a simple calculator in python.
 - Project 9: *Email Validation in Python (Using string functions)* -
   In this program, we are going to check whether the entered email is valid or not.
-- Project 10: *Swapping two numbers*
+- Project 10: *Swapping two numbers* -
   A simple program that swaps two numbers using third variable and  without using third variable.
   
