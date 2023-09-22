@@ -20,4 +20,4 @@ Here, I have uploaded some of my python projects to practice my fundamentals.
   In this program, we are going to check whether the entered email is valid or not.
 - [Project 9: **Password generator** -](https://github.com/Maryam0330/Python-Repo/blob/main/password_generator.py
   )
-  This program randomly builds a simple password generator in Python.
+  A simple program that randomly generates a password using Python.
